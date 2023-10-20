@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Banto_ofline/.vs
+Banto_ofline/Binaries
+Banto_ofline/Saved
+Banto_ofline/Intermediate/AssetRegistryCache
+Banto_ofline/Intermediate/Build
+Banto_ofline/Intermediate/Config
+Banto_ofline/Intermediate/ReimportCache
+Banto_ofline/Intermediate/ShaderAutogen
+Banto_ofline/Intermediate/CachedAssetRegistry.bin
